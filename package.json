@@ -7,9 +7,6 @@
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
-  "engines": {
-    "node" : "18.x"
-  },
   "keywords": [],
   "author": "muzi",
   "type": "module",
